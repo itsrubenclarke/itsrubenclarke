@@ -5,7 +5,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Azure virtual Machine Deployment Preparing For Network Traffic Analysis](https://github.com/)
+  - [Azure Virtual Machine Deployment Preparing For Network Traffic Analysis](https://github.com/)
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
