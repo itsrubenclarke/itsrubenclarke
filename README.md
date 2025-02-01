@@ -5,5 +5,5 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Azure Virtual Machine Deployment Preparing For Network Traffic Analysis](https://github.com/)
+  - [Azure Virtual Machine Deployment Preparing For Network Traffic Analysis](https://github.com/itsrubenclarke/azure-and-ad-setup)
 
