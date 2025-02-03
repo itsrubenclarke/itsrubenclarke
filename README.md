@@ -5,5 +5,5 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Azure</b>
-  - [Azure Virtual Machine Deployment Preparing For Network Traffic Analysis](https://github.com/itsrubenclarke/azure-vm-setup)
+  - [Azure Virtual Machine Deployment & Basic Network Analysis](https://github.com/itsrubenclarke/azure-vm-setup)
 
