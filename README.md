@@ -6,4 +6,6 @@
 
 - <b>Azure</b>
   - [Azure Virtual Machine Deployment & Basic Network Analysis](https://github.com/itsrubenclarke/azure-vm-setup)
+  - Active Directory Deployment and Configuration
+  - 
 
