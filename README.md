@@ -8,6 +8,6 @@
   - [Azure Virtual Machine Deployment & Basic Network Analysis](https://github.com/itsrubenclarke/azure-vm-setup)
 
 - <b>Active Directory</b>
-  - Active Directory Deployment and Configuration
+  - Active Directory: Deployment and Configuration
   - Active Directory: User Generation 
 
