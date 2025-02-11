@@ -4,10 +4,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Azure</b>
-  - [Azure Virtual Machine Deployment & Basic Network Analysis](https://github.com/itsrubenclarke/azure-vm-setup)
+- <b>Microsoft Azure</b>
+  - Azure: Creating a Virtual Machine
+  - Azure: Network Traffic Analysis With Wireshark
+  - Azure: Active Directory Employment & Configuration
 
-- <b>Active Directory</b>
-  - Active Directory: Deployment and Configuration
-  - Active Directory: User Generation 
+
 
