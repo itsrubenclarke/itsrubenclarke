@@ -5,8 +5,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - Azure: Creating a Virtual Machine
-  - Azure: Network Traffic Analysis With Wireshark
+  - [Azure: Creating a Virtual Machine](https://github.com/itsrubenclarke/azure-vm-setup)
+  - [Azure: Network Traffic Analysis With Wireshark](https://github.com/itsrubenclarke/azure-network-traffic-analysis)
   - Azure: Active Directory Employment & Configuration
 
 
