@@ -9,7 +9,7 @@
   - [Azure: Network Traffic Analysis With Wireshark](https://github.com/itsrubenclarke/azure-network-traffic-analysis)
  
 - <b>Active Directory</b>
-  - Azure: Active Directory Deployment & Configuration
+  - Active Directory: VM Deployment & Configuration
 
 
 
