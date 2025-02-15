@@ -9,7 +9,7 @@
   - [Azure: Network Security Groups(NSGs) and Inspecting Traffic With Wireshark](https://github.com/itsrubenclarke/azure-network-traffic-analysis)
  
 - <b>Active Directory</b>
-  - [Active Directory: Virtual Machine Deployment](https://github.com/itsrubenclarke/active-directory-vm-deployment)   
+  - [Active Directory: Virtual Machine Deployment](https://github.com/itsrubenclarke/ad-vm-deploy)   
   - Active Directory: Installation and Configuration
   - Active Directory: Bulk User Generation
 
