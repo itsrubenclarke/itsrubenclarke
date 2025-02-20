@@ -11,6 +11,6 @@
 - <b>Active Directory</b>
   - [Active Directory: Virtual Machine Deployment](https://github.com/itsrubenclarke/ad-vm-deploy)
   - [Active Directory: Installation and Configuration](https://github.com/itsrubenclarke/ad-install-and-config)   
-  - Active Directory: Bulk User Generation
+  - [Active Directory: Bulk User Generation](https://github.com/itsrubenclarke/ad-bulk-user-generation)
 
 
