@@ -5,9 +5,9 @@ I invite you to explore my projects to see how I showcase my ability to bridge t
 
 ## About Me
 
-- 🔐 **Cybersecurity Analyst**: Experienced in vulnerability management, risk assessments, and incident response.
-- 🤖 **AI Integration Enthusiast**: Exploring strategies to leverage AI tools in cybersecurity frameworks.
-- 🖥️ **Linux Administrator**: Proficient in secure configuration and compliance audits.
+- 🪖 **Armed Forces Veteran**: Former British Army Airborne Combat Engineer.
+- 🔐 **Cybersecurity Enthusiast**: Experienced in vulnerability management, risk assessments, and incident response.
+
 
 ## 👨‍💻 Information Technology Projects:
 
