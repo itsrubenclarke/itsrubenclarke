@@ -9,11 +9,6 @@ I invite you to explore my projects to see how I showcase my ability to bridge t
 - 🤖 **AI Integration Enthusiast**: Exploring strategies to leverage AI tools in cybersecurity frameworks.
 - 🖥️ **Linux Administrator**: Proficient in secure configuration and compliance audits.
 
-## Let's Connect
-[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-000000?logo=protonmail&logoColor=fff)](mailto:ruclarke@protonmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?logo=linkedin)](https://www.linkedin.com/in/itsrubenclarke/)
-[![GitHub](https://img.shields.io/badge/GitHub-itsrubenclarke-black?logo=github)](https://github.com/itsrubenclarke)
-
 ## 👨‍💻 Information Technology Projects:
 
 <b>Microsoft Azure</b>
@@ -25,4 +20,7 @@ I invite you to explore my projects to see how I showcase my ability to bridge t
   - [Active Directory: Installation and Configuration](https://github.com/itsrubenclarke/ad-install-and-config)   
   - [Active Directory: Bulk User Generation](https://github.com/itsrubenclarke/ad-bulk-user-generation)
 
-
+## Let's Connect
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-000000?logo=protonmail&logoColor=fff)](mailto:ruclarke@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?logo=linkedin)](https://www.linkedin.com/in/itsrubenclarke/)
+[![GitHub](https://img.shields.io/badge/GitHub-itsrubenclarke-black?logo=github)](https://github.com/itsrubenclarke)
