@@ -3,11 +3,6 @@
 I'm a multidisciplinary professional with a strong foundation in cybersecurity, risk management, and process optimisation. With experience spanning information security, telecommunications, marketing, and the armed forces, I bring a strategic and analytical approach to tackling security challenges. 
 I invite you to explore my projects to see how I showcase my ability to bridge theoretical knowledge with practical implementation. 
 
-## Let's Connect
-[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-000000?logo=protonmail&logoColor=fff)](mailto:ruclarke@protonmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?logo=linkedin)](https://www.linkedin.com/in/itsrubenclarke/)
-[![GitHub](https://img.shields.io/badge/GitHub-itsrubenclarke-black?logo=github)](https://github.com/itsrubenclarke)
-
 ## About Me
 
 - 🔐 **Cybersecurity Analyst**: Experienced in vulnerability management, risk assessments, and incident response.
