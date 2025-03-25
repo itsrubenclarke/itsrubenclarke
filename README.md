@@ -1,4 +1,14 @@
-<h1><a href="https://www.linkedin.com/in/itsrubenclarke/">Ruben Clarke's</a> Cybersecurity Project Portfolio 🔐 </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey!+👋;+I'm+Ruben+Clarke!;" />
+</h1>
+
+<h3 align="center"> Welcome To My Cybersecurity Portfolio 🔐</h3>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/itsrubenclarke/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+---
 
 I'm a multidisciplinary professional with a strong foundation in cybersecurity, risk management, and process optimisation. With experience spanning information security, telecommunications, marketing, and the armed forces, I bring a strategic and analytical approach to tackling security challenges. 
 I invite you to explore my projects to see how I showcase my ability to bridge theoretical knowledge with practical implementation. 
