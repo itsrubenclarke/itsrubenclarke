@@ -14,7 +14,7 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
 
 ---
 
-## 👨‍💻 Cybersecurity Projects:
+##  Cybersecurity Projects:
 
 - **Vulnerability Management Program Implementation**
   - [Start to finish Vulnerability Management Program creation using Tenable Vulnerability Management](https://github.com)
@@ -27,7 +27,7 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
   - [Design comprehensive Corporate Cybersecurity Program using the NIST CSF 2.0 Framework](https://github.com) 
 -->
 
-## 👨‍💻 Information Technology Projects:
+##  Information Technology Projects:
   - [Active Directory: Virtual Machine Deployment](https://github.com/itsrubenclarke/ad-vm-deploy)
   - [Active Directory: Installation and Configuration](https://github.com/itsrubenclarke/ad-install-and-config)   
   - [Active Directory: Bulk User Generation](https://github.com/itsrubenclarke/ad-bulk-user-generation)
