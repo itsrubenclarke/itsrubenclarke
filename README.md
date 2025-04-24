@@ -14,15 +14,32 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
 
 ---
 
-##  Cybersecurity Projects:
+## ⭐ Featured Projects:
 
 - **Security Operations & Incident Response / Cloud Cybersecurity Project**
   - [Creating & Securing a SOC/Honeynet in Azure With Live Attack Traffic](https://github.com)
 
 - **Vulnerability Management Program Implementation**
   - [Start To Finish Vulnerability Management Program Creation Using Tenable Vulnerability Management](https://github.com/itsrubenclarke/vulnerability-management-program/blob/main/README.md)
+ 
+---
 
+
+ <!--
+## Threat Hunting Projects:
+
+### Windows
+  - [Threat Hunting Scenario (Tor Browser)](https://github.com)  
+  - [Threat Hunting Scenario (Impossible Travel)](https://github.com)
+  - [Threat Hunting Scenario (System Configuration)](https://github.com)
     
+### Linux
+  - [Threat Hunting Scenario (Malicious File )](https://github.com) 
+  - [Threat Hunting Scenario (Insider Threat)](https://github.com) 
+  - [Threat Hunting Scenario (Brute Force Attack)](https://github.com)
+-->
+
+
  <!--
 - **Governance, Risk and Compliance Capstone Project**
   - [Design comprehensive Corporate Cybersecurity Program using the NIST CSF 2.0 Framework](https://github.com) 
