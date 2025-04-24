@@ -16,11 +16,12 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
 
 ##  Cybersecurity Projects:
 
-- **Vulnerability Management Program Implementation**
-  - [Start to finish Vulnerability Management Program creation using Tenable Vulnerability Management](https://github.com/itsrubenclarke/vulnerability-management-program/blob/main/README.md)
+- **Security Operations & Incident Response / Cloud Cybersecurity Project**
+  - [Creating & Securing a SOC/Honeynet in Azure With Live Attack Traffic](https://github.com)
 
-- **Security Operations and Incident Response / Cloud Cybersecurity Project**
-  - [Creating and securing a SOC/Honeynet in Azure with live attack traffic](https://github.com)
+- **Vulnerability Management Program Implementation**
+  - [Start To Finish Vulnerability Management Program Creation Using Tenable Vulnerability Management](https://github.com/itsrubenclarke/vulnerability-management-program/blob/main/README.md)
+
     
  <!--
 - **Governance, Risk and Compliance Capstone Project**
@@ -28,11 +29,10 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
 -->
 
 ##  Information Technology Projects:
-  - [Active Directory: Virtual Machine Deployment](https://github.com/itsrubenclarke/ad-vm-deploy)
   - [Active Directory: Installation and Configuration](https://github.com/itsrubenclarke/ad-install-and-config)   
   - [Active Directory: Bulk User Generation](https://github.com/itsrubenclarke/ad-bulk-user-generation)
   - [Microsoft Azure: Creating Virtual Machines](https://github.com/itsrubenclarke/azure-vm-setup)
-  - [Microsoft Azure: Network Security Groups(NSGs) and Inspecting Traffic With Wireshark](https://github.com/itsrubenclarke/azure-network-traffic-analysis)
+  - [Microsoft Azure: (NSGs) & Inspecting Traffic With Wireshark](https://github.com/itsrubenclarke/azure-network-traffic-analysis)
     
 ## Let's Connect
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-000000?logo=protonmail&logoColor=fff)](mailto:ruclarke@protonmail.com)
