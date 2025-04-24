@@ -3,10 +3,13 @@
 </h1>
 
 
- <h3 align="center"> Welcome To My Cybersecurity Portfolio 🔐</h3>
+<h2 align="center"> Welcome To My Cybersecurity Portfolio 🔐</h2>
+
 I'm a multidisciplinary professional with a strong foundation in cybersecurity, risk management, and process optimisation. With experience spanning information security, telecommunications, marketing, and the armed forces, I bring a strategic and analytical approach to tackling security challenges.  I want to invite you to explore my projects to see how I showcase my ability to bridge theoretical knowledge with practical implementation.
 
 ---
+
+<p></p>
 
 - 🪖 **Armed Forces Veteran**: Former British Army Airborne Combat Engineer.
 - 🔐 **Cybersecurity Enthusiast**: Experienced in vulnerability management, risk assessments, and incident response.
@@ -14,7 +17,7 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
 
 ---
 
-##  Threat Hunting & Vulnerability Management Projects:
+## Threat Hunting & Vulnerability Management Projects:
 
 <!--
 
@@ -22,13 +25,11 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
   - [Threat Hunting Scenario (Tor Browser)](https://github.com)  
   - [Threat Hunting Scenario (Impossible Travel)](https://github.com)
   - [Threat Hunting Scenario (System Configuration)](https://github.com)
-    
-### <img alt= "Ubuntu logo" src="https://github.com/user-attachments/assets/87cccf20-cfc6-4950-b1ec-b480d913e7eb" width="20"> Linux Threat Hunting
+
+### <img alt= "Ubuntu logo" src="https://github.com/user-attachments/assets/e018245f-a985-42e2-8c1d-7b847ed7139a" width="20"> Linux Threat Hunting    
   - [Threat Hunting Scenario (Malicious File )](https://github.com) 
   - [Threat Hunting Scenario (Insider Threat)](https://github.com) 
   - [Threat Hunting Scenario (Brute Force Attack)](https://github.com)
-
----
 
 -->
 
