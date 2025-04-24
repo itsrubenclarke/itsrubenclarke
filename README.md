@@ -15,6 +15,9 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
 ---
 
 ##  Threat Hunting & Vulnerability Management Projects:
+
+<!--
+
 ### <img alt= "windows logo" src="https://i.imgur.com/KcrV0u6.png" width="20"> Windows Threat Hunting
   - [Threat Hunting Scenario (Tor Browser)](https://github.com)  
   - [Threat Hunting Scenario (Impossible Travel)](https://github.com)
@@ -27,6 +30,8 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
 
 ---
 
+-->
+
 ### Security Operations & Incident Response / Cloud Cybersecurity Project
   - [Creating & Securing a SOC/Honeynet in Azure With Live Attack Traffic](https://github.com)
 
@@ -36,10 +41,10 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
 --- 
 
 
- <!--
+<!--
 - **Governance, Risk and Compliance Capstone Project**
   - [Design comprehensive Corporate Cybersecurity Program using the NIST CSF 2.0 Framework](https://github.com) 
-
+-->
 
 ##  Information Technology Projects:
   - [Active Directory: Installation and Configuration](https://github.com/itsrubenclarke/ad-install-and-config)   
@@ -47,7 +52,7 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
   - [Microsoft Azure: Creating Virtual Machines](https://github.com/itsrubenclarke/azure-vm-setup)
   - [Microsoft Azure: (NSGs) & Inspecting Traffic With Wireshark](https://github.com/itsrubenclarke/azure-network-traffic-analysis)
 
-  -->
+
     
 ## Let's Connect
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-000000?logo=protonmail&logoColor=fff)](mailto:ruclarke@protonmail.com)
