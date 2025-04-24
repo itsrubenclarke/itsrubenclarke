@@ -23,20 +23,20 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
   - [Start To Finish Vulnerability Management Program Creation Using Tenable Vulnerability Management](https://github.com/itsrubenclarke/vulnerability-management-program/blob/main/README.md)
  
 
-
 ---
 
 
+<!--
 ### <img alt= "windows logo" src="https://i.imgur.com/KcrV0u6.png" width="20"> Windows Threat Hunting
   - [Threat Hunting Scenario (Tor Browser)](https://github.com)  
   - [Threat Hunting Scenario (Impossible Travel)](https://github.com)
   - [Threat Hunting Scenario (System Configuration)](https://github.com)
     
-### Linux Threat Hunting
+### <img alt= "Ubuntu logo" src="https://github.com/user-attachments/assets/87cccf20-cfc6-4950-b1ec-b480d913e7eb" width="20"> Linux Threat Hunting
   - [Threat Hunting Scenario (Malicious File )](https://github.com) 
   - [Threat Hunting Scenario (Insider Threat)](https://github.com) 
   - [Threat Hunting Scenario (Brute Force Attack)](https://github.com)
-
+-->
 
 
  <!--
