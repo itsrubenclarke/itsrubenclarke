@@ -18,13 +18,10 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
 ---
 
 ## Threat Hunting & Vulnerability Management Projects:
-
+  <!--
 
 ### <img alt= "windows logo" src="https://i.imgur.com/KcrV0u6.png" width="20"> Windows Threat Hunting
   - [Threat Hunting Scenario (Tor Browser)](https://github.com)  
-
-
-  <!--
   - [Threat Hunting Scenario (Impossible Travel)](https://github.com)
   - [Threat Hunting Scenario (System Configuration)](https://github.com)
 
