@@ -32,10 +32,11 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
   - [Threat Hunting Scenario (Insider Threat)](https://github.com) 
   - [Threat Hunting Scenario (Brute Force Attack)](https://github.com)
 
--->
 
 ### Security Operations & Incident Response / Cloud Cybersecurity Project
   - [Creating & Securing a SOC/Honeynet in Azure With Live Attack Traffic](https://github.com)
+
+-->
 
 ### Vulnerability Management Program Implementation
   - [Start To Finish Vulnerability Management Program Creation Using Tenable](https://github.com/itsrubenclarke/vulnerability-management-program/blob/main/README.md)
