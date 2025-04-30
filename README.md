@@ -5,7 +5,7 @@
 
 <h2 align="center"> Welcome To My Cybersecurity Portfolio 🔐</h2>
 
-I'm a multidisciplinary professional with a strong foundation in cybersecurity, risk management, and process optimisation. With experience spanning information security, telecommunications, marketing, and the armed forces, I bring a strategic and analytical approach to tackling security challenges.  I want to invite you to explore my projects to see how I showcase my ability to bridge theoretical knowledge with practical implementation.
+I'm a multidisciplinary professional with a strong foundation in cybersecurity, risk management, and process optimisation. With experience spanning information security, telecommunications, marketing, and the armed forces, I bring a strategic and analytical approach to tackling security challenges.  I invite you to explore my projects to see how I showcase my ability to bridge theoretical knowledge with practical implementation.
 
 ---
 
