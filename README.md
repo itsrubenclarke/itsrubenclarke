@@ -20,10 +20,13 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
 ## Threat Hunting & Vulnerability Management Projects:
  
 
-### <img alt= "windows logo" src="https://i.imgur.com/KcrV0u6.png" width="20"> Windows Threat Hunting
+### <img alt= "windows logo" src="https://i.imgur.com/KcrV0u6.png" width="20"> Windows Threat Hunting (MDE)
   - [Threat Hunting Scenario (Tor Browser)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/Tor-Browser/README.md)  
   - [Threat Hunting Scenario (Impossible Travel)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/Impossible-Travel/README.md)
   - [Threat Hunting Scenario (System Configuration)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/System-Configuration/README.md)
+
+### <img alt= "windows logo" src="https://i.imgur.com/KcrV0u6.png" width="20"> Windows 10 STIG Control Implementation (PowerShell)
+- [Windows 10 STIG Remediation with Audit and Compliance Validation Scripts](https://github.com/itsrubenclarke/STIG-Remediation-Windows10)
 
 ### Vulnerability Management Program Implementation
   - [Start To Finish Vulnerability Management Program Creation Using Tenable](https://github.com/itsrubenclarke/vulnerability-management-program/blob/main/README.md)
@@ -33,6 +36,7 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
 
 ### Security Operations & Incident Response / Cloud Cybersecurity Project
   - [Creating & Securing a SOC/Honeynet in Azure With Live Attack Traffic](https://github.com)
+
 
 ### NIST CSF 2.0 Framework - Governance, Risk and Compliance Capstone Project
   - [Design Comprehensive Corporate Cybersecurity Program](https://github.com) 
