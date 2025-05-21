@@ -9,8 +9,6 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
 
 ---
 
-<p></p>
-
 - 🪖 **Armed Forces Veteran**: Former British Army Airborne Combat Engineer.
 - 🔐 **Cybersecurity Enthusiast**: Experienced in vulnerability management, risk assessments, and incident response.
 - 🍰 **Cake Connoisseur**: Self-proclaimed cake lover with a real sweet tooth.
