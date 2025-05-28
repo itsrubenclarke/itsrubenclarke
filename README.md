@@ -23,8 +23,8 @@ I'm a multidisciplinary professional with a strong foundation in cybersecurity, 
   - [Threat Hunting Scenario (Impossible Travel)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/Impossible-Travel/README.md)
   - [Threat Hunting Scenario (System Configuration)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/System-Configuration/README.md)
 
-### Vulnerability Management Program Implementation
-  - [Start To Finish Vulnerability Management Program Creation Using Tenable](https://github.com/itsrubenclarke/vulnerability-management-program/blob/main/README.md)
+### Vulnerability Management Program (Tenable)
+  - [Start To Finish Vulnerability Management Program Implementation](https://github.com/itsrubenclarke/vulnerability-management-program/blob/main/README.md)
 
 ### Windows 10 STIG Control Implementation (PowerShell)
 - [Windows 10 STIG Remediation with Audit and Compliance Validation Scripts](https://github.com/itsrubenclarke/windows-stig-remediation)
