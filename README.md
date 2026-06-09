@@ -1,7 +1,7 @@
 
 <h1>Ruben Clarke </h1> 
 
-AI & Automation Engineer | Governance Risk & Compliance | AWS · Azure · PowerShell · Python
+GRC Engineer | Governance Risk & Compliance | AWS · Azure · PowerShell · Python
 
 I help organisations turn compliance requirements into effective governance frameworks, robust security controls, and repeatable processes that stand up to audit. My work focuses on ISO 27001, ISO 27701 and ISO 42001, GDPR, cloud security, and compliance as code. Combining experience from the armed forces, B2C marketing, and information security, I bring a structured approach to risk management that balances security, compliance, and business objectives.
 
