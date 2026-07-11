@@ -23,7 +23,7 @@ I help organisations turn compliance requirements into effective governance fram
   - [Threat Hunting Scenario (System Configuration)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/System-Configuration/README.md)
 
 ### Agentic AI Builds
-  - [ASVP: AI Security Validation Platform](https://github.com/itsrubenclarke/asvp-showcase/blob/master/README.md)
+  - [ASVP: AI Security Validation Platform](https://github.com/itsrubenclarke/Agentic-AI-Projects/blob/93b41244acb85a9e06c9ac24ad7bc73727b025e3/asvp-showcase/README.md)
     
 <!-- 
 ---
