@@ -96,6 +96,9 @@ Interviews with security practitioners about what the job actually involves: the
 The Career You Don’t Plan, And the Risks You Don’t See In cyber, the most interesting people often arrived by accident. Amanda Crossley left...
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="160" valign="top"><a href="https://itsrubenclarke.medium.com/ai-vs-cyber-defence-whos-actually-winning-f01c3cdcc22b"><img src="https://cdn-images-1.medium.com/max/1024/1*g0uvbs0lF9pBSS37BUhrOA.png" width="150" alt="" /></a></td>
 <td valign="top">
@@ -104,6 +107,9 @@ The Career You Don’t Plan, And the Risks You Don’t See In cyber, the most in
 Most businesses assume their security is working. They’ve got the tools. They’ve got the certifications. They’ve done the annual pen test. W...
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="160" valign="top"><a href="https://itsrubenclarke.medium.com/the-insurance-gap-where-businesses-get-caught-out-3a2b26a2357d"><img src="https://cdn-images-1.medium.com/max/1024/1*esX54QT5eQrgMhZy7lJshg.png" width="150" alt="" /></a></td>
 <td valign="top">
