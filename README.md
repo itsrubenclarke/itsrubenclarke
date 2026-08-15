@@ -89,7 +89,7 @@ Interviews with security practitioners about what the job actually involves: the
 <!-- MEDIUM-RECENT-ARTICLES:START -->
 <table cellpadding="10" cellspacing="0">
 <tr>
-<td width="180" valign="top"><a href="https://itsrubenclarke.medium.com/the-fish-tank-lesson-every-device-is-a-door-a699d134eeea"><img src="https://cdn-images-1.medium.com/max/1024/1*5dCOB29EyISE4dD3QaFjog.png" width="180" alt="" /></a></td>
+<td width="180" valign="top"><a href="https://itsrubenclarke.medium.com/the-fish-tank-lesson-every-device-is-a-door-a699d134eeea"><img src="https://cdn-images-1.medium.com/v2/resize:fill:180:120/1*5dCOB29EyISE4dD3QaFjog.png" width="180" height="120" alt="" /></a></td>
 <td valign="top">
 <b>The Fish Tank Lesson: Every Device Is a Door</b><br/>
 <sub>May 31, 2026</sub><br/>
@@ -100,7 +100,7 @@ The Career You Don’t Plan, And the Risks You Don’t See In cyber, the most in
 
 <table cellpadding="10" cellspacing="0">
 <tr>
-<td width="180" valign="top"><a href="https://itsrubenclarke.medium.com/ai-vs-cyber-defence-whos-actually-winning-f01c3cdcc22b"><img src="https://cdn-images-1.medium.com/max/1024/1*g0uvbs0lF9pBSS37BUhrOA.png" width="180" alt="" /></a></td>
+<td width="180" valign="top"><a href="https://itsrubenclarke.medium.com/ai-vs-cyber-defence-whos-actually-winning-f01c3cdcc22b"><img src="https://cdn-images-1.medium.com/v2/resize:fill:180:120/1*g0uvbs0lF9pBSS37BUhrOA.png" width="180" height="120" alt="" /></a></td>
 <td valign="top">
 <b>AI vs Cyber Defence: Who’s Actually Winning?</b><br/>
 <sub>Apr 28, 2026</sub><br/>
@@ -111,7 +111,7 @@ Most businesses assume their security is working. They’ve got the tools. They�
 
 <table cellpadding="10" cellspacing="0">
 <tr>
-<td width="180" valign="top"><a href="https://itsrubenclarke.medium.com/the-insurance-gap-where-businesses-get-caught-out-3a2b26a2357d"><img src="https://cdn-images-1.medium.com/max/1024/1*esX54QT5eQrgMhZy7lJshg.png" width="180" alt="" /></a></td>
+<td width="180" valign="top"><a href="https://itsrubenclarke.medium.com/the-insurance-gap-where-businesses-get-caught-out-3a2b26a2357d"><img src="https://cdn-images-1.medium.com/v2/resize:fill:180:120/1*esX54QT5eQrgMhZy7lJshg.png" width="180" height="120" alt="" /></a></td>
 <td valign="top">
 <b>The Insurance Gap: Where Businesses Get Caught Out</b><br/>
 <sub>Mar 27, 2026</sub><br/>
