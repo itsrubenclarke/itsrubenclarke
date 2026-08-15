@@ -84,7 +84,7 @@ Interviews with security practitioners about what the job actually involves: the
 -->
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
 
-### 📰 Latest Articles
+### 📰 Latest Medium Articles
 
 <!-- MEDIUM-RECENT-ARTICLES:START -->
 <table cellpadding="10" cellspacing="0">
