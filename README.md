@@ -87,6 +87,9 @@ Interviews with security practitioners about what the job actually involves: the
 ### 📰 Latest Articles
 
 <!-- MEDIUM-RECENT-ARTICLES:START -->
+- [The Fish Tank Lesson: Every Device Is a Door](https://itsrubenclarke.medium.com/the-fish-tank-lesson-every-device-is-a-door-a699d134eeea) - May 31, 2026
+- [AI vs Cyber Defence: Who’s Actually Winning?](https://itsrubenclarke.medium.com/ai-vs-cyber-defence-whos-actually-winning-f01c3cdcc22b) - Apr 28, 2026
+- [The Insurance Gap: Where Businesses Get Caught Out](https://itsrubenclarke.medium.com/the-insurance-gap-where-businesses-get-caught-out-3a2b26a2357d) - Mar 27, 2026
 <!-- MEDIUM-RECENT-ARTICLES:END -->
 
 <div align="center">
