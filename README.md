@@ -87,6 +87,7 @@ Interviews with security practitioners about what the job actually involves: the
 ### 📰 Latest Articles
 
 <!-- MEDIUM-RECENT-ARTICLES:START -->
+<!-- MEDIUM-RECENT-ARTICLES:END -->
 
 <div align="center">
   <a href="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/0">
@@ -100,7 +101,6 @@ Interviews with security practitioners about what the job actually involves: the
   </a>
 </div>
 
-<!-- MEDIUM-RECENT-ARTICLES:END -->
     
 <!-- 
 ---
