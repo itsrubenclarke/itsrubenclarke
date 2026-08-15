@@ -1,14 +1,69 @@
 
 <h1>Ruben Clarke </h1> 
 
-GRC Engineer | Security & Compliance | ISO 27001 · GDPR · PowerShell · Python
+#### GRC Engineer & Information Security Consultant | ISO 27001, 27701 & 42001 Lead Auditor
 
 I help organisations turn compliance requirements into effective governance frameworks, robust security controls, and repeatable processes that stand up to audit. My work focuses on ISO 27001, ISO 27701 and ISO 42001, GDPR, cloud security, and compliance as code. Combining experience from the armed forces, B2C marketing, and information security, I bring a structured approach to risk management that balances security, compliance, and business objectives.
 
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-000000?logo=protonmail&logoColor=fff)](mailto:ruclarke@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?logo=linkedin)](https://www.linkedin.com/in/itsrubenclarke/)
 
----
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
+
+
+### 📜 Certifications & Education
+
+- 🎓 **Certified GRC Engineer, Auditor Specialty (CGE-AUD)** 
+- 🎓 **ISO/IEC 27701 Privacy Information Management Systems (PIMS) Lead Auditor** 
+- 🎓 **ISO/IEC 42001 AI Management Systems (AIMS) Lead Auditor** 
+- 🎓 **ISO/IEC 27001 Information Security Management Systems (ISMS) Lead Auditor** 
+- 🎓 **ISO/IEC 27001 Information Security Management Systems (ISMS) Lead Implementer** 
+
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
+
+### 💼 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**ISMS Risk & Control Assurance**
+*Seven-Client Portfolio*
+
+Risk assessment, control mapping and internal audit across seven concurrent clients, covering defence supply chain, SaaS, research, nonprofit and professional services. Every control traces from the Statement of Applicability through to audit findings and closed corrective actions.
+
+</td>
+<td width="50%" valign="top">
+
+**Technical Evidence Review**
+*Cloud-First ISMS Engagements*
+
+AWS configuration, Terraform and pipeline settings read directly as control evidence, rather than taking a written description at face value. Covers IAM and MFA, CloudTrail, encryption, S3 exposure and branch protection, mapped back to ISO/IEC 27001 Annex A.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+ 
+**🔗 Threat Hunting Labs**
+*Microsoft Defender for Endpoint*
+ 
+Simulated attack scenarios on Windows endpoints, hunted using KQL across file, process and network telemetry. Each one written up as a full report with the queries used, a reconstructed timeline of the activity and the response actions taken.
+ 
+</td>
+<td width="50%" valign="top">
+
+**🔗 Arcane Link**
+*Podcast*
+
+Interviews with security practitioners about what the job actually involves: the politics, the tedium, and what people wish they had known before they started. The parts that never make it into a job description, a certification syllabus or a conference talk.
+
+</td>
+</tr>
+</table>
+
+
+<!-- 
 
 ### ISO 27001: Vulnerability Management Program
   - [ISO 27001-aligned vulnerability management lifecycle: policy, change control, and evidenced remediation](https://github.com/itsrubenclarke/iso27001-vulnerability-management/blob/main/README.md)
@@ -26,7 +81,8 @@ I help organisations turn compliance requirements into effective governance fram
   - [AI Security Validation Platform](https://github.com/itsrubenclarke/Agentic-AI-Projects/blob/93b41244acb85a9e06c9ac24ad7bc73727b025e3/asvp-showcase/README.md)
   - [AI Security Mentor | Text & Speech](https://github.com/itsrubenclarke/Agentic-AI-Projects/blob/main/ai-mentor-showcase/README.md)
 
----
+-->
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
 
 ### 📰 Latest Articles
 
