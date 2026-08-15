@@ -87,9 +87,32 @@ Interviews with security practitioners about what the job actually involves: the
 ### 📰 Latest Articles
 
 <!-- MEDIUM-RECENT-ARTICLES:START -->
-- [The Fish Tank Lesson: Every Device Is a Door](https://itsrubenclarke.medium.com/the-fish-tank-lesson-every-device-is-a-door-a699d134eeea) - May 31, 2026
-- [AI vs Cyber Defence: Who’s Actually Winning?](https://itsrubenclarke.medium.com/ai-vs-cyber-defence-whos-actually-winning-f01c3cdcc22b) - Apr 28, 2026
-- [The Insurance Gap: Where Businesses Get Caught Out](https://itsrubenclarke.medium.com/the-insurance-gap-where-businesses-get-caught-out-3a2b26a2357d) - Mar 27, 2026
+<table>
+<tr>
+<td width="160" valign="top"><a href="https://itsrubenclarke.medium.com/the-fish-tank-lesson-every-device-is-a-door-a699d134eeea"><img src="https://cdn-images-1.medium.com/max/1024/1*5dCOB29EyISE4dD3QaFjog.png" width="150" alt="" /></a></td>
+<td valign="top">
+<a href="https://itsrubenclarke.medium.com/the-fish-tank-lesson-every-device-is-a-door-a699d134eeea"><b>The Fish Tank Lesson: Every Device Is a Door</b></a><br/>
+<sub>May 31, 2026</sub><br/>
+The Career You Don’t Plan, And the Risks You Don’t See In cyber, the most interesting people often arrived by accident. Amanda Crossley left...
+</td>
+</tr>
+<tr>
+<td width="160" valign="top"><a href="https://itsrubenclarke.medium.com/ai-vs-cyber-defence-whos-actually-winning-f01c3cdcc22b"><img src="https://cdn-images-1.medium.com/max/1024/1*g0uvbs0lF9pBSS37BUhrOA.png" width="150" alt="" /></a></td>
+<td valign="top">
+<a href="https://itsrubenclarke.medium.com/ai-vs-cyber-defence-whos-actually-winning-f01c3cdcc22b"><b>AI vs Cyber Defence: Who’s Actually Winning?</b></a><br/>
+<sub>Apr 28, 2026</sub><br/>
+Most businesses assume their security is working. They’ve got the tools. They’ve got the certifications. They’ve done the annual pen test. W...
+</td>
+</tr>
+<tr>
+<td width="160" valign="top"><a href="https://itsrubenclarke.medium.com/the-insurance-gap-where-businesses-get-caught-out-3a2b26a2357d"><img src="https://cdn-images-1.medium.com/max/1024/1*esX54QT5eQrgMhZy7lJshg.png" width="150" alt="" /></a></td>
+<td valign="top">
+<a href="https://itsrubenclarke.medium.com/the-insurance-gap-where-businesses-get-caught-out-3a2b26a2357d"><b>The Insurance Gap: Where Businesses Get Caught Out</b></a><br/>
+<sub>Mar 27, 2026</sub><br/>
+The Policy You Never Read (Until You Need It) In business, there are certain things you buy because you have to. Insurance usually sits some...
+</td>
+</tr>
+</table>
 <!-- MEDIUM-RECENT-ARTICLES:END -->
 
 <div align="center">
