@@ -25,6 +25,27 @@ I help organisations turn compliance requirements into effective governance fram
 ### Agentic AI Builds
   - [AI Security Validation Platform](https://github.com/itsrubenclarke/Agentic-AI-Projects/blob/93b41244acb85a9e06c9ac24ad7bc73727b025e3/asvp-showcase/README.md)
   - [AI Security Mentor | Text & Speech](https://github.com/itsrubenclarke/Agentic-AI-Projects/blob/main/ai-mentor-showcase/README.md)
+
+---
+
+### 📰 Latest Articles
+
+<div align="center">
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/0">
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/0" alt="Latest Article"/>
+  </a>
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/1">
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/1"/>
+  </a>
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/2">
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/2"/>
+  </a>
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/3">
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/3"/>
+  </a>
+</div>
+
+
     
 <!-- 
 ---
