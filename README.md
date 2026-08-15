@@ -87,7 +87,7 @@ Interviews with security practitioners about what the job actually involves: the
 ### 📰 Latest Articles
 
 <div align="center">
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/0">
+  <a href="https://medium.com/@itsrubenclarke/the-fish-tank-lesson-every-device-is-a-door-a699d134eeea">
     <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/0" alt="Latest Article"/>
   </a>
   <a href="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/1">
