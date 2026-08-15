@@ -40,9 +40,6 @@ I help organisations turn compliance requirements into effective governance fram
   <a href="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/2">
     <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/2"/>
   </a>
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/3">
-    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/3"/>
-  </a>
 </div>
 
 
