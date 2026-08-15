@@ -121,18 +121,6 @@ The Policy You Never Read (Until You Need It) In business, there are certain thi
 </table>
 <!-- MEDIUM-RECENT-ARTICLES:END -->
 
-<div align="center">
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/0">
-    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/0" alt="Latest Article"/>
-  </a>
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/1">
-    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/1"/>
-  </a>
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/2">
-    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@itsrubenclarke/2"/>
-  </a>
-</div>
-
     
 <!-- 
 ---
