@@ -84,9 +84,11 @@ Interviews with security practitioners about what the job actually involves: the
 -->
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
 
+
+<!-- 
 ### 📰 Latest Medium Articles
 
-<!-- MEDIUM-RECENT-ARTICLES:START -->
+MEDIUM-RECENT-ARTICLES:START
 <table cellpadding="10" cellspacing="0">
 <tr>
 <td width="180" valign="top"><a href="https://itsrubenclarke.medium.com/the-fish-tank-lesson-every-device-is-a-door-a699d134eeea"><img src="https://cdn-images-1.medium.com/v2/resize:fill:180:120/1*5dCOB29EyISE4dD3QaFjog.png" width="180" height="120" alt="" /></a></td>
@@ -119,35 +121,7 @@ The Policy You Never Read (Until You Need It) In business, there are certain thi
 </td>
 </tr>
 </table>
-<!-- MEDIUM-RECENT-ARTICLES:END -->
+MEDIUM-RECENT-ARTICLES:END -->
 
     
-<!-- 
----
 
-## 🛠️ Technical Skills
-
-**Identity & Access Management**  
-Okta (Workflows, API, Lifecycle Management) • Microsoft Entra ID (Azure AD) • Privileged Identity Management (PIM) • Active Directory • Azure AD Connect • RBAC • Conditional Access • MFA • OAuth 2.0 • SAML • OpenID Connect
-
-**Security Operations**  
-Microsoft Sentinel • Microsoft Defender for Endpoint • Wazuh SIEM • KQL • Threat Hunting • Incident Response • Log Analysis
-
-**Vulnerability & Threat Management**  
-Tenable Nessus • DISA STIG • MITRE ATT&CK Framework • Vulnerability Scanning • Adversary Simulation • Penetration Testing
-
-**Cloud & Infrastructure**  
-AWS (EC2, EKS, VPC, IAM, KMS, Secrets Manager) • Azure (Entra ID, Sentinel, Defender) • VMware Workstation • Windows Server 2025 • Linux Administration
-
-**Compliance & GRC**  
-NIST 800-53 Rev. 5 • NIST CSF 2.0 • Third-Party Risk Management (TPRM) • AuditBoard • HIPAA • SOC 2 • ISO 27001 • PCI DSS
-
-**Automation & Development**  
-PowerShell • Python • Bash • Terraform • Okta Workflows • REST APIs • Git • Docker • Kubernetes • CI/CD Pipelines
-
-**Data & Analytics**  
-PowerBI • SQL • KQL • Dashboard Development • KPI Tracking • Audit Analytics
-
-
-
--->
