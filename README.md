@@ -67,6 +67,12 @@ Interviews with security practitioners about what the job actually involves: the
 ### 📰 Latest Substack Articles
 
 <!-- SUBSTACK-RECENT-ARTICLES:START -->
+<a href="https://itsrubenclarke.substack.com/p/the-calm-in-the-chaos"><img src="assets/substack-0db3f286c0.svg" width="180" height="101" align="left" hspace="16" alt="" /></a>
+<b>The Calm in the Chaos</b><br/>
+<sub>Oct 6, 2026</sub><br/>
+In the world of information security, the true test of a leader doesn&#x27;t happen during a successful audit.
+<br clear="left"/>
+
 <a href="https://itsrubenclarke.substack.com/p/cyber-insurance-explained"><img src="assets/substack-ac53c5f4f0.svg" width="180" height="101" align="left" hspace="16" alt="" /></a>
 <b>Cyber Insurance Explained</b><br/>
 <sub>Oct 6, 2026</sub><br/>
@@ -78,13 +84,15 @@ In business, there are certain things you buy because you have to. Insurance usu
 <sub>Oct 6, 2026</sub><br/>
 There was a time, not very long ago, when an annual pen test, decent firewall, and a folder of policies was a perfectly respectable answer...
 <br clear="left"/>
-
-<a href="https://itsrubenclarke.substack.com/p/example-1"><img src="assets/substack-2d398d00c6.svg" width="180" height="101" align="left" hspace="16" alt="" /></a>
-<b>The Doors You Stopped Counting</b><br/>
-<sub>Oct 6, 2026</sub><br/>
-In cyber security, the people who notice the most aren’t always the ones with the longest CVs.
-<br clear="left"/>
 <!-- SUBSTACK-RECENT-ARTICLES:END -->
+
+### 🧪 Preview: 2x2 card grid
+
+<!-- SUBSTACK-GRID-PREVIEW:START -->
+<a href="https://itsrubenclarke.substack.com/p/the-calm-in-the-chaos"><img src="assets/substack-card-30daebb1bc.svg" width="49%" alt="The Calm in the Chaos" /></a><a href="https://itsrubenclarke.substack.com/p/cyber-insurance-explained"><img src="assets/substack-card-d8c1d8c5a1.svg" width="49%" alt="Cyber Insurance Explained" /></a>
+<br/>
+<a href="https://itsrubenclarke.substack.com/p/defence-at-speed-with-ai"><img src="assets/substack-card-e42327cb02.svg" width="49%" alt="Defence At Speed With Ai" /></a><a href="https://itsrubenclarke.substack.com/p/example-1"><img src="assets/substack-card-fad7918e36.svg" width="49%" alt="The Doors You Stopped Counting" /></a>
+<!-- SUBSTACK-GRID-PREVIEW:END -->
 
     
 
