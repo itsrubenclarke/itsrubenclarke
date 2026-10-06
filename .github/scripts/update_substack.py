@@ -28,7 +28,7 @@ UA = (
 SUMMARY_LEN = 140
 PROXY_URL = "https://api.allorigins.win/raw?disableCache=true&url="
 PROXY_ATTEMPTS = 5
-ASSET_DIR = os.environ.get("ASSET_DIR", "assets")
+ASSET_DIR = os.environ.get("ASSET_DIR", "profile-assets")
 ASSET_PREFIX = "substack-"
 CORNER_RADIUS = 16  # in 360x203 source pixels (shown at half size)
 

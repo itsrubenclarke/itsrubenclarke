@@ -8,7 +8,7 @@ I help organisations turn compliance requirements into effective governance fram
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-000000?logo=protonmail&logoColor=fff)](mailto:ruclarke@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?logo=linkedin)](https://www.linkedin.com/in/itsrubenclarke/)
 
-[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
+![animated-line](profile-assets/animated-line.svg)
 
 ### 📜 Certifications & Education
 
@@ -19,7 +19,7 @@ I help organisations turn compliance requirements into effective governance fram
 - 🎓 **ISO/IEC 27001 Information Security Management Systems (ISMS) Lead Implementer**
 
 
-[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
+![animated-line](profile-assets/animated-line.svg)
 
 ### 💼 Featured Work
 
@@ -62,25 +62,25 @@ Interviews with security practitioners about what the job actually involves: the
 </tr>
 </table>
 
-[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
+![animated-line](profile-assets/animated-line.svg)
 
 <!-- SUBSTACK-RECENT-ARTICLES:START -->
 <!--
 ### 📰 Latest Substack Articles
 
-<a href="https://itsrubenclarke.substack.com/p/the-calm-in-the-chaos"><img src="assets/substack-0db3f286c0.svg" width="180" height="101" align="left" hspace="16" alt="" /></a>
+<a href="https://itsrubenclarke.substack.com/p/the-calm-in-the-chaos"><img src="profile-assets/substack-0db3f286c0.svg" width="180" height="101" align="left" hspace="16" alt="" /></a>
 <b>The Calm in the Chaos</b><br/>
 <sub>Oct 6, 2026</sub><br/>
 In the world of information security, the true test of a leader doesn&#x27;t happen during a successful audit.
 <br clear="left"/>
 
-<a href="https://itsrubenclarke.substack.com/p/cyber-insurance-explained"><img src="assets/substack-ac53c5f4f0.svg" width="180" height="101" align="left" hspace="16" alt="" /></a>
+<a href="https://itsrubenclarke.substack.com/p/cyber-insurance-explained"><img src="profile-assets/substack-ac53c5f4f0.svg" width="180" height="101" align="left" hspace="16" alt="" /></a>
 <b>Cyber Insurance Explained</b><br/>
 <sub>Oct 6, 2026</sub><br/>
 In business, there are certain things you buy because you have to. Insurance usually sits somewhere near the top of that list. It’s not...
 <br clear="left"/>
 
-<a href="https://itsrubenclarke.substack.com/p/defence-at-speed-with-ai"><img src="assets/substack-a1e9cb158a.svg" width="180" height="101" align="left" hspace="16" alt="" /></a>
+<a href="https://itsrubenclarke.substack.com/p/defence-at-speed-with-ai"><img src="profile-assets/substack-a1e9cb158a.svg" width="180" height="101" align="left" hspace="16" alt="" /></a>
 <b>Defence At Speed With Ai</b><br/>
 <sub>Oct 6, 2026</sub><br/>
 There was a time, not very long ago, when an annual pen test, decent firewall, and a folder of policies was a perfectly respectable answer...

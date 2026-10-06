@@ -1,0 +1,51 @@
+<svg width="900" height="14" viewBox="0 0 900 14" xmlns="http://www.w3.org/2000/svg">
+  <metadata>
+    Created by OstinUA and readme-SVG org
+    https://github.com/readme-SVG/animated-line
+  </metadata>
+  <path 
+    d="M0 7 Q171 12 283 7 Q395 2 566 7 Q738 12 900 7" 
+    stroke="black" 
+    stroke-width="3" 
+    fill="none" 
+    stroke-linecap="round"
+  >
+    <animate 
+      attributeName="d" 
+      dur="4s" 
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+      keyTimes="0; 0.33; 0.66; 1"
+      values="
+        M0 7 Q171 12 283 7 Q395 2 566 7 Q738 12 900 7; 
+        M0 7 Q141 7 283 7 Q425 7 566 7 Q708 7 900 7; 
+        M0 7 Q111 2 283 7 Q455 12 566 7 Q678 2 900 7; 
+        M0 7 Q171 12 283 7 Q395 2 566 7 Q738 12 900 7
+      " 
+    />
+  </path>
+
+  <path 
+    d="M0 7 Q141 7 283 7 Q425 7 566 7 Q708 7 900 7" 
+    stroke="#000000" 
+    stroke-width="3" 
+    fill="none" 
+    stroke-linecap="round"
+  >
+    <animate 
+      attributeName="d" 
+      dur="4s" 
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+      keyTimes="0; 0.33; 0.66; 1"
+      values="
+        M0 7 Q141 7 283 7 Q425 7 566 7 Q708 7 900 7; 
+        M0 7 Q111 2 283 7 Q455 12 566 7 Q678 2 900 7; 
+        M0 7 Q171 12 283 7 Q395 2 566 7 Q738 12 900 7; 
+        M0 7 Q141 7 283 7 Q425 7 566 7 Q708 7 900 7
+      " 
+    />
+  </path>
+</svg>
