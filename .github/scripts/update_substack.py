@@ -55,19 +55,14 @@ def render(item):
     image = ""
     if enclosure is not None and enclosure.get("url"):
         img = html.escape(crop_image(enclosure.get("url")), quote=True)
-        image = f'<a href="{link}"><img src="{img}" width="180" height="120" alt="" /></a>'
+        image = f'<a href="{link}"><img src="{img}" width="180" height="120" align="left" hspace="16" alt="" /></a>'
     heading = f'<a href="{link}">{title}</a>' if LINK_TITLES else title
     lines = [
-        '<table cellpadding="0" cellspacing="0">',
-        "<tr>",
-        f'<td width="180" valign="top">{image}</td>',
-        '<td valign="top"><dl><dd>',
+        image,
         f"<b>{heading}</b><br/>",
         f"<sub>{date}</sub><br/>",
         summary,
-        "</dd></dl></td>",
-        "</tr>",
-        "</table>",
+        '<br clear="left"/>',
     ]
     return "\n".join(lines)
 
