@@ -21,6 +21,9 @@ jobs:
           SUBSTACK_FEED: https://itsrubenclarke.substack.com/feed
           MAX_POSTS: "3"
           LINK_TITLES: "false"
+          # "true" keeps the section updated but hidden (inside an HTML comment).
+          # Set to "false" once the real articles are live to show it on the profile.
+          HIDE_SECTION: "true"
         run: python .github/scripts/update_substack.py
       - name: Commit and push
         run: |
