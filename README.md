@@ -102,7 +102,7 @@ There was a time, not very long ago, when an annual pen test, decent firewall, a
 <a href="https://itsrubenclarke.substack.com/p/example-1"><img src="assets/substack-2d398d00c6.svg" width="180" height="101" align="left" hspace="16" alt="" /></a>
 <b>The Doors You Stopped Counting</b><br/>
 <sub>Oct 6, 2026</sub><br/>
-This is a subtitle
+In cyber security, the people who notice the most aren’t always the ones with the longest CVs.
 <br clear="left"/>
 <!-- SUBSTACK-RECENT-ARTICLES:END -->
 

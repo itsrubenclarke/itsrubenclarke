@@ -6,6 +6,7 @@ import html
 import os
 import re
 import sys
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
@@ -27,8 +28,13 @@ ASSET_PREFIX = "substack-"
 CORNER_RADIUS = 16  # in 360x203 source pixels (shown at half size)
 
 
-def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, */*"})
+def fetch(url, bust_cache=False):
+    if bust_cache:  # Substack's CDN can serve a stale feed for the bare URL
+        url += ("&" if "?" in url else "?") + f"_={int(time.time())}"
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": UA, "Accept": "application/rss+xml, */*", "Cache-Control": "no-cache"},
+    )
     with urllib.request.urlopen(req, timeout=30) as resp:
         return resp.read()
 
@@ -100,7 +106,7 @@ def render(item):
 
 
 def main():
-    root = ET.fromstring(fetch(FEED))
+    root = ET.fromstring(fetch(FEED, bust_cache=True))
     items = root.findall("./channel/item")[:MAX_POSTS]
     if not items:
         sys.exit("No posts found in feed; leaving README unchanged")
