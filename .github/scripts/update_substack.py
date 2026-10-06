@@ -58,14 +58,14 @@ def render(item):
         image = f'<a href="{link}"><img src="{img}" width="180" height="120" alt="" /></a>'
     heading = f'<a href="{link}">{title}</a>' if LINK_TITLES else title
     lines = [
-        '<table cellpadding="10" cellspacing="0">',
+        '<table cellpadding="0" cellspacing="0">',
         "<tr>",
         f'<td width="180" valign="top">{image}</td>',
-        '<td valign="top">',
+        '<td valign="top"><dl><dd>',
         f"<b>{heading}</b><br/>",
         f"<sub>{date}</sub><br/>",
         summary,
-        "</td>",
+        "</dd></dl></td>",
         "</tr>",
         "</table>",
     ]
