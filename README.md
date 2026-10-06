@@ -10,14 +10,14 @@ I help organisations turn compliance requirements into effective governance fram
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
 
-
 ### 📜 Certifications & Education
 
 - 🎓 **Certified GRC Engineer, Auditor Specialty (CGE-AUD)**
 - 🎓 **ISO/IEC 42001 AI Management Systems (AIMS) Lead Auditor** 
 - 🎓 **ISO/IEC 27701 Privacy Information Management Systems (PIMS) Lead Auditor** 
 - 🎓 **ISO/IEC 27001 Information Security Management Systems (ISMS) Lead Auditor** 
-- 🎓 **ISO/IEC 27001 Information Security Management Systems (ISMS) Lead Implementer** 
+- 🎓 **ISO/IEC 27001 Information Security Management Systems (ISMS) Lead Implementer**
+
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
 
@@ -86,13 +86,6 @@ There was a time, not very long ago, when an annual pen test, decent firewall, a
 <br clear="left"/>
 <!-- SUBSTACK-RECENT-ARTICLES:END -->
 
-### 🧪 Preview: 2x2 card grid
-
-<!-- SUBSTACK-GRID-PREVIEW:START -->
-<a href="https://itsrubenclarke.substack.com/p/the-calm-in-the-chaos"><img src="assets/substack-card-30daebb1bc.svg" width="49%" alt="The Calm in the Chaos" /></a><a href="https://itsrubenclarke.substack.com/p/cyber-insurance-explained"><img src="assets/substack-card-d8c1d8c5a1.svg" width="49%" alt="Cyber Insurance Explained" /></a>
-<br/>
-<a href="https://itsrubenclarke.substack.com/p/defence-at-speed-with-ai"><img src="assets/substack-card-e42327cb02.svg" width="49%" alt="Defence At Speed With Ai" /></a><a href="https://itsrubenclarke.substack.com/p/example-1"><img src="assets/substack-card-fad7918e36.svg" width="49%" alt="The Doors You Stopped Counting" /></a>
-<!-- SUBSTACK-GRID-PREVIEW:END -->
 
     
 
