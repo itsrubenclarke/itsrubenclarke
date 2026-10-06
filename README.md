@@ -84,42 +84,20 @@ Interviews with security practitioners about what the job actually involves: the
 -->
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
 
-### 📰 Latest Medium Articles
+### 📰 Latest Substack Articles
 
-<!-- MEDIUM-RECENT-ARTICLES:START -->
+<!-- SUBSTACK-RECENT-ARTICLES:START -->
 <table cellpadding="10" cellspacing="0">
 <tr>
-<td width="180" valign="top"><a href="https://itsrubenclarke.medium.com/the-fish-tank-lesson-every-device-is-a-door-a699d134eeea"><img src="https://cdn-images-1.medium.com/v2/resize:fill:180:120/1*5dCOB29EyISE4dD3QaFjog.png" width="180" height="120" alt="" /></a></td>
+<td width="180" valign="top"><a href="https://itsrubenclarke.substack.com/p/example-1"><img src="https://substackcdn.com/image/fetch/w_360,h_240,c_fill/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1494253109108-2e30c049369b%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3wzMDAzMzh8MHwxfHNlYXJjaHw1fHxyYW5kb218ZW58MHx8fHwxNzkxMjgxNDkxfDA%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D1080" width="180" height="120" alt="" /></a></td>
 <td valign="top">
-<b>The Fish Tank Lesson: Every Device Is a Door</b><br/>
-<sub>May 31, 2026</sub><br/>
-The Career You Don’t Plan, And the Risks You Don’t See In cyber, the most interesting people often arrived by accident. Amanda Crossley left...
+<b>Example 1</b><br/>
+<sub>Oct 6, 2026</sub><br/>
+This is a subtitle
 </td>
 </tr>
 </table>
-
-<table cellpadding="10" cellspacing="0">
-<tr>
-<td width="180" valign="top"><a href="https://itsrubenclarke.medium.com/ai-vs-cyber-defence-whos-actually-winning-f01c3cdcc22b"><img src="https://cdn-images-1.medium.com/v2/resize:fill:180:120/1*g0uvbs0lF9pBSS37BUhrOA.png" width="180" height="120" alt="" /></a></td>
-<td valign="top">
-<b>AI vs Cyber Defence: Who’s Actually Winning?</b><br/>
-<sub>Apr 28, 2026</sub><br/>
-Most businesses assume their security is working. They’ve got the tools. They’ve got the certifications. They’ve done the annual pen test. W...
-</td>
-</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0">
-<tr>
-<td width="180" valign="top"><a href="https://itsrubenclarke.medium.com/the-insurance-gap-where-businesses-get-caught-out-3a2b26a2357d"><img src="https://cdn-images-1.medium.com/v2/resize:fill:180:120/1*esX54QT5eQrgMhZy7lJshg.png" width="180" height="120" alt="" /></a></td>
-<td valign="top">
-<b>The Insurance Gap: Where Businesses Get Caught Out</b><br/>
-<sub>Mar 27, 2026</sub><br/>
-The Policy You Never Read (Until You Need It) In business, there are certain things you buy because you have to. Insurance usually sits some...
-</td>
-</tr>
-</table>
-<!-- MEDIUM-RECENT-ARTICLES:END -->
+<!-- SUBSTACK-RECENT-ARTICLES:END -->
 
     
 <!-- 
