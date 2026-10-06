@@ -27,6 +27,7 @@ UA = (
 )
 SUMMARY_LEN = 140
 PROXY_URL = "https://api.allorigins.win/raw?disableCache=true&url="
+PROXY_ATTEMPTS = 5
 ASSET_DIR = os.environ.get("ASSET_DIR", "assets")
 ASSET_PREFIX = "substack-"
 CORNER_RADIUS = 16  # in 360x203 source pixels (shown at half size)
@@ -49,7 +50,14 @@ def fetch_feed():
         return fetch(FEED, bust_cache=True)
     except Exception as exc:
         print(f"Direct feed fetch failed ({exc}); trying proxy", file=sys.stderr)
-    return fetch(PROXY_URL + quote(FEED, safe=""), bust_cache=True)
+    for attempt in range(1, PROXY_ATTEMPTS + 1):  # the free proxy intermittently 522s
+        try:
+            return fetch(PROXY_URL + quote(FEED, safe=""), bust_cache=True)
+        except Exception as exc:
+            print(f"Proxy attempt {attempt}/{PROXY_ATTEMPTS} failed ({exc})", file=sys.stderr)
+            if attempt == PROXY_ATTEMPTS:
+                raise
+            time.sleep(5)
 
 
 def clean(text):
