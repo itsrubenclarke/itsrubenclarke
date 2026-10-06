@@ -87,19 +87,19 @@ Interviews with security practitioners about what the job actually involves: the
 ### 📰 Latest Substack Articles
 
 <!-- SUBSTACK-RECENT-ARTICLES:START -->
-<a href="https://itsrubenclarke.substack.com/p/cyber-insurance-explained"><img src="https://substackcdn.com/image/fetch/w_360,h_240,c_fill/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21NNzQ%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fca86fc82-d77a-446b-8b10-8764261a2f5b_1280x720.webp" width="180" height="120" align="left" hspace="16" alt="" /></a>
+<a href="https://itsrubenclarke.substack.com/p/cyber-insurance-explained"><img src="https://substackcdn.com/image/fetch/w_360,h_203,c_fill/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21NNzQ%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fca86fc82-d77a-446b-8b10-8764261a2f5b_1280x720.webp" width="180" height="101" align="left" hspace="16" alt="" /></a>
 <b>Cyber Insurance Explained</b><br/>
 <sub>Oct 6, 2026</sub><br/>
 In business, there are certain things you buy because you have to. Insurance usually sits somewhere near the top of that list. It’s not...
 <br clear="left"/>
 
-<a href="https://itsrubenclarke.substack.com/p/defence-at-speed-with-ai"><img src="https://substackcdn.com/image/fetch/w_360,h_240,c_fill/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21atl_%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F551880cf-b47e-414f-9508-fcce7717a0a7_1280x720.webp" width="180" height="120" align="left" hspace="16" alt="" /></a>
+<a href="https://itsrubenclarke.substack.com/p/defence-at-speed-with-ai"><img src="https://substackcdn.com/image/fetch/w_360,h_203,c_fill/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21atl_%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F551880cf-b47e-414f-9508-fcce7717a0a7_1280x720.webp" width="180" height="101" align="left" hspace="16" alt="" /></a>
 <b>Defence At Speed With Ai</b><br/>
 <sub>Oct 6, 2026</sub><br/>
 There was a time, not very long ago, when an annual pen test, decent firewall, and a folder of policies was a perfectly respectable answer...
 <br clear="left"/>
 
-<a href="https://itsrubenclarke.substack.com/p/example-1"><img src="https://substackcdn.com/image/fetch/w_360,h_240,c_fill/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21JbsU%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F4c8a38be-d4d9-418f-a78c-2b5e7bd86d91_1280x720.webp" width="180" height="120" align="left" hspace="16" alt="" /></a>
+<a href="https://itsrubenclarke.substack.com/p/example-1"><img src="https://substackcdn.com/image/fetch/w_360,h_203,c_fill/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21JbsU%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F4c8a38be-d4d9-418f-a78c-2b5e7bd86d91_1280x720.webp" width="180" height="101" align="left" hspace="16" alt="" /></a>
 <b>The Doors You Stopped Counting</b><br/>
 <sub>Oct 6, 2026</sub><br/>
 This is a subtitle

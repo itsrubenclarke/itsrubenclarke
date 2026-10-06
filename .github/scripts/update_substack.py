@@ -40,7 +40,7 @@ def truncate(text, limit=SUMMARY_LEN):
 
 
 def crop_image(url):
-    return "https://substackcdn.com/image/fetch/w_360,h_240,c_fill/" + quote(url, safe="")
+    return "https://substackcdn.com/image/fetch/w_360,h_203,c_fill/" + quote(url, safe="")
 
 
 def render(item):
@@ -55,7 +55,7 @@ def render(item):
     image = ""
     if enclosure is not None and enclosure.get("url"):
         img = html.escape(crop_image(enclosure.get("url")), quote=True)
-        image = f'<a href="{link}"><img src="{img}" width="180" height="120" align="left" hspace="16" alt="" /></a>'
+        image = f'<a href="{link}"><img src="{img}" width="180" height="101" align="left" hspace="16" alt="" /></a>'
     heading = f'<a href="{link}">{title}</a>' if LINK_TITLES else title
     lines = [
         image,
