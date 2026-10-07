@@ -65,7 +65,6 @@ Interviews with security practitioners about what the job actually involves: the
 ![animated-line](profile-assets/animated-line.svg)
 
 <!-- SUBSTACK-RECENT-ARTICLES:START -->
-<!--
 ### 📰 Latest Substack Articles
 
 <a href="https://itsrubenclarke.substack.com/p/the-calm-in-the-chaos"><img src="profile-assets/substack-0db3f286c0.svg" width="180" height="101" align="left" hspace="16" alt="" /></a>
@@ -85,7 +84,6 @@ In business, there are certain things you buy because you have to. Insurance usu
 <sub>Oct 6, 2026</sub><br/>
 There was a time, not very long ago, when an annual pen test, decent firewall, and a folder of policies was a perfectly respectable answer...
 <br clear="left"/>
--->
 <!-- SUBSTACK-RECENT-ARTICLES:END -->
 
 
