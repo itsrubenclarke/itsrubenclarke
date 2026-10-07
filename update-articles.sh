@@ -8,9 +8,9 @@ cd "$(dirname "$0")"
 export SUBSTACK_FEED="https://itsrubenclarke.substack.com/feed"
 export MAX_POSTS="3"
 export LINK_TITLES="false"
-# "true" keeps the section updated but hidden (inside an HTML comment).
-# Change to "false" once the real articles are live to show it on the profile.
-export HIDE_SECTION="true"
+# "false" shows the section on the profile. "true" keeps it updated but hidden
+# (inside an HTML comment).
+export HIDE_SECTION="false"
 # -----------------------------------------------------------------------------
 
 if ! git diff --quiet || ! git diff --cached --quiet; then
